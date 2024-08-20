@@ -6,7 +6,7 @@ I'm a dedicated computer engineering student and interested in Linux, DevOps and
 
 - **Location:** Ankara, Turkey
 - **Email:** [ereyhan60@gmail.com](mailto:ereyhan60@gmail.com)
-- **LinkedIn:** [emre-reyhan](https://linkedin.com/in/emre-reyhan-10861a232)
+- **LinkedIn:** [Emre Reyhan](https://linkedin.com/in/emre-reyhan-10861a232)
 - **GitHub:** [ereyhan60](https://github.com/ereyhan60)
 
 ## Techs Used
