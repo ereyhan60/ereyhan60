@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a dedicated computer engineering student and interested in Linux, DevOps and networking. I'm constantly exploring these areas to enhance my knowledge and skills.
+I'm a computer engineer interested in Linux, DevOps, networking and cyber security. I'm constantly exploring these areas to enhance my knowledge and skills.
 
 - **Location:** Ankara, Turkey
 - **Email:** [ereyhan60@gmail.com](mailto:ereyhan60@gmail.com)
